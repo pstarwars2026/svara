@@ -1,6 +1,6 @@
 # Svara privacy
 
-Last updated: September 19, 2026. This policy describes Svara 1.0, submitted for App Review.
+Last updated: September 19, 2026. This policy describes the updated Svara 1.0 release candidate.
 
 ## Audio stays on your Mac
 
@@ -27,3 +27,7 @@ You can stop a recording at any time, remove library entries, delete audio files
 For privacy questions, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). If you contact support through GitHub, the information you post is public and handled by GitHub. Do not include recordings, receipts, credentials, or personal information.
 
 GitHub processes information you choose to submit in issues under its own policies. Issues are public. Do not post private recordings, credentials, personal file paths, or payment receipts. See [Support](SUPPORT.md) for the information useful in a bug report.
+
+## Daily Free allowance
+
+Svara stores daily recording usage, its reset schedule, and clock checkpoints locally in macOS Keychain. This record is separate from preferences, is not synchronized to other Macs, and is not sent to us. Pro has no daily allowance.
