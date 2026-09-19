@@ -7,7 +7,7 @@
 
 Record an application's audio. Shape it. Keep it on your Mac.
 
-**macOS 26 or newer · Mac App Store release in development**
+**macOS 26 or newer · Waiting for App Review**
 
 [Features](#a-focused-recorder-a-more-capable-pro) · [Privacy](PRIVACY.md) · [Support](SUPPORT.md)
 
@@ -19,7 +19,7 @@ This repository is the public product and support page. **Svara is not available
 
 ## A focused recorder. A more capable Pro.
 
-The following describes the current development build and planned launch tiers. Features are still undergoing testing and are not a released product.
+These features are included in version 1.0, submitted for App Review. The app is not yet approved or available to download.
 
 | Svara Free | Svara Pro |
 |---|---|
@@ -30,7 +30,7 @@ The following describes the current development build and planned launch tiers. 
 | Visible status and audio level | Reusable recording presets |
 | Local audio processing | Searchable recording library and editable titles |
 
-Pro is planned as a **one-time in-app purchase**, with no subscription. Final pricing will be confirmed in the Mac App Store. Free recording will not have ads, watermarks, or an arbitrary recording cutoff.
+Svara is free to download at launch. Pro is a **US $2.99 one-time in-app purchase**, with no subscription. Prices in other countries are localized by Apple. Free recording will not have ads, watermarks, or an arbitrary recording cutoff.
 
 ## Built for the sounds you are allowed to keep
 
@@ -40,10 +40,10 @@ Svara saves audio only. It does not save screen video, capture the microphone, u
 
 ## Release status
 
-- Native recording and Pro tools are in development and validation.
-- Apple purchase/restore testing and beta acceptance are required before launch.
-- No public app download, TestFlight invitation, or App Store release is available yet.
-- macOS 26 is the minimum planned operating system.
+- Version 1.0 and Svara Pro were submitted together on September 19, 2026 and are waiting for App Review.
+- Recording, export, and purchase/restore checks were completed before submission.
+- No public download is available yet. The App Store link will be added after approval and release.
+- Requires macOS 26 or later.
 
 ## Support and feedback
 

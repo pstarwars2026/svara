@@ -1,6 +1,6 @@
 # Svara privacy
 
-Last updated: September 19, 2026. This describes the current development design; the policy will be checked against the final App Store release.
+Last updated: September 19, 2026. This policy describes Svara 1.0, submitted for App Review.
 
 ## Audio stays on your Mac
 
@@ -16,12 +16,14 @@ Svara stores recording preferences, presets, and its library on your Mac. Librar
 
 ## Purchases
 
-The planned Pro purchase is handled by Apple through the Mac App Store. Svara uses Apple-verified transaction information to determine whether Pro is unlocked and to restore purchases. Payment details are handled by Apple and are not sent to a Svara-operated server. Svara does not operate a purchase backend or collect your Apple Account password.
+The Pro purchase is handled by Apple through the Mac App Store. Svara uses Apple-verified transaction information to determine whether Pro is unlocked and to restore purchases. Payment details are handled by Apple and are not sent to a Svara-operated server. Svara does not operate a purchase backend or collect your Apple Account password.
 
 ## Your controls
 
 You can stop a recording at any time, remove library entries, delete audio files through Finder, and revoke recording permission in System Settings → Privacy & Security → Screen & System Audio Recording.
 
 ## Support
+
+For privacy questions, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). If you contact support through GitHub, the information you post is public and handled by GitHub. Do not include recordings, receipts, credentials, or personal information.
 
 GitHub processes information you choose to submit in issues under its own policies. Issues are public. Do not post private recordings, credentials, personal file paths, or payment receipts. See [Support](SUPPORT.md) for the information useful in a bug report.
