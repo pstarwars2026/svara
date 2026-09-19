@@ -7,7 +7,7 @@
 
 Record an application's audio. Shape it. Keep it on your Mac.
 
-**macOS 26 or newer · Preparing an updated App Review submission**
+**macOS 26 or newer · Waiting for App Review**
 
 [Features](#a-focused-recorder-a-more-capable-pro) · [Privacy](PRIVACY.md) · [Support](SUPPORT.md)
 
@@ -19,7 +19,7 @@ This repository is the public product and support page. **Svara is not available
 
 ## A focused recorder. A more capable Pro.
 
-These are the launch features in the updated version 1.0 candidate. The app is not yet approved or available to download.
+These features are included in version 1.0 (build 7), submitted for App Review. The app is not yet approved or available to download.
 
 | Svara Free | Svara Pro |
 |---|---|
@@ -40,7 +40,7 @@ Svara saves audio only. It does not save screen video, capture the microphone, u
 
 ## Release status
 
-- Version 1.0 and Svara Pro were submitted together on September 19, 2026. An updated build with the daily Free allowance is being prepared for resubmission.
+- Version 1.0 (build 7), including the daily Free allowance, and Svara Pro were submitted together on September 19, 2026. Both are waiting for App Review.
 - Recording, export, and purchase/restore checks were completed before submission.
 - No public download is available yet. The App Store link will be added after approval and release.
 - Requires macOS 26 or later.

@@ -1,6 +1,6 @@
 # Svara support
 
-An updated Svara 1.0 submission with a daily Free allowance is being prepared for App Review. Public app downloads are not available yet.
+Svara 1.0 (build 7) and Svara Pro are waiting for App Review. Public app downloads are not available yet.
 
 For support, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). Issues are public: do not post recordings, purchase receipts, credentials, or personal information.
 
