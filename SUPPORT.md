@@ -1,6 +1,6 @@
 # Svara support
 
-Svara 1.0 (build 7) and Svara Pro are waiting for App Review. Public app downloads are not available yet.
+Svara 1.0 (build 8) and Svara Pro were submitted September 20, 2026 and showed Waiting for Review. Public app downloads are not available yet.
 
 For support, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). Issues are public: do not post recordings, purchase receipts, credentials, or personal information.
 
@@ -25,7 +25,7 @@ Let Stop & Save finish before quitting. Force-quitting, losing power, or disconn
 
 ## Pro purchases
 
-Pro is a US $2.99 one-time Mac App Store purchase, with localized regional pricing. Restore Purchases is available in the Pro window for the Apple Account that purchased it. There is no external purchase page or license-key seller.
+Pro is a US $2.99 one-time Mac App Store purchase, with localized regional pricing. Restore Purchases is available in the Pro window and Svara application menu for the Apple Account that purchased it. There is no external purchase page or license-key seller.
 
 ## Free daily allowance
 
