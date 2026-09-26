@@ -19,7 +19,7 @@ This repository is the public product and support page. **Svara is not available
 
 ## A focused recorder. A more capable Pro.
 
-These features are included in version 1.0 (build 8), submitted for App Review. The app is not yet approved or available to download.
+These features are included in version 1.0 (build 9), submitted for App Review. The app is not yet approved or available to download.
 
 | Svara Free | Svara Pro |
 |---|---|
@@ -40,8 +40,8 @@ Svara saves audio only. It does not save screen video, capture the microphone, u
 
 ## Release status
 
-- Version 1.0 (build 8), including the daily Free allowance and verified-ownership Pro artwork, and Svara Pro were submitted together on September 20, 2026. Both showed Waiting for Review at that submission check.
-- Recording, export, and purchase/restore checks were completed before submission.
+- Version 1.0 (build 9) and Svara Pro were resubmitted together on September 26, 2026. Both showed Waiting for Review at that submission check; this is not approval.
+- Build 9 improves the recording-permission flow: Refresh Apps invokes macOS authorization, with no direct Settings redirect.
 - No public download is available yet. The App Store link will be added after approval and release.
 - Requires macOS 26 or later.
 

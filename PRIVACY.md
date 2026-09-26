@@ -1,6 +1,6 @@
 # Svara privacy
 
-Last updated: September 19, 2026. This policy describes Svara 1.0 (build 7), submitted for App Review.
+Last updated: September 26, 2026. This policy describes Svara 1.0 (build 9), resubmitted for App Review.
 
 ## Audio stays on your Mac
 
@@ -8,7 +8,7 @@ Svara processes and saves recordings locally. It has no audio upload feature, ad
 
 ## Recording permission
 
-macOS asks for Screen & System Audio Recording permission. Svara uses Apple's capture framework to obtain audio from the application you choose. It registers audio output only, saves no screen frames, and does not record the microphone. Other audible tabs in the selected browser may be included.
+Svara invokes macOS’s native Screen & System Audio Recording authorization flow when you choose Refresh Apps, rather than requesting access at launch or redirecting you to System Settings. If access is not granted, no recording starts. Svara uses Apple's capture framework to obtain audio from the application you choose. It registers audio output only, saves no screen frames, and does not record the microphone. Other audible tabs in the selected browser may be included.
 
 ## Local settings and library
 

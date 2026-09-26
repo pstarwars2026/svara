@@ -1,6 +1,6 @@
 # Svara support
 
-Svara 1.0 (build 8) and Svara Pro were submitted September 20, 2026 and showed Waiting for Review. Public app downloads are not available yet.
+Svara 1.0 (build 9) and Svara Pro were resubmitted September 26, 2026 and showed Waiting for Review. Public app downloads are not available yet.
 
 For support, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). Issues are public: do not post recordings, purchase receipts, credentials, or personal information.
 
@@ -15,7 +15,9 @@ Do not post audio recordings, purchase receipts, credentials, or personal paths.
 
 ## Recording access
 
-The app needs permission under System Settings → Privacy & Security → Screen & System Audio Recording. It saves audio only. If access changes, reopen the app and refresh its application list.
+Choose **Refresh Apps** when you want to select an audio source. This invokes Apple’s capture framework, which may show macOS’s native Screen & System Audio Recording permission request. Svara explains why it uses access and does not redirect you to System Settings. It saves audio only, without microphone audio or screen video.
+
+If access is not granted, no recording starts and the app remains available. If you later change recording access in macOS, reopen Svara and choose Refresh Apps.
 
 ## Files and recordings
 
