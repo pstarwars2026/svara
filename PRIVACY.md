@@ -1,6 +1,6 @@
 # Svara privacy
 
-Last updated: September 26, 2026. This policy describes Svara 1.0 (build 9), resubmitted for App Review.
+Last updated: September 26, 2026. This policy describes Svara 1.0 as released on the Mac App Store.
 
 ## Audio stays on your Mac
 

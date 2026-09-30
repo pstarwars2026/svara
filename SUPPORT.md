@@ -1,6 +1,6 @@
 # Svara support
 
-Svara 1.0 (build 9) and Svara Pro were resubmitted September 26, 2026 and showed Waiting for Review. Public app downloads are not available yet.
+Svara 1.0 and Svara Pro are available on the [Mac App Store](https://apps.apple.com/us/app/svara-audio-recorder/id6813962461?mt=12).
 
 For support, use [GitHub support](https://github.com/pstarwars2026/svara/issues/new/choose). Issues are public: do not post recordings, purchase receipts, credentials, or personal information.
 

@@ -7,7 +7,9 @@
 
 Record an application's audio. Shape it. Keep it on your Mac.
 
-**macOS 26 or newer · Waiting for App Review**
+**macOS 26 or newer · Available on the Mac App Store**
+
+[Download on the Mac App Store](https://apps.apple.com/us/app/svara-audio-recorder/id6813962461?mt=12)
 
 [Features](#a-focused-recorder-a-more-capable-pro) · [Privacy](PRIVACY.md) · [Support](SUPPORT.md)
 
@@ -15,11 +17,11 @@ Record an application's audio. Shape it. Keep it on your Mac.
 
 Svara is a native Mac audio recorder built around a simple workflow: pick a running application, choose where to save, and record. No audio-routing drivers, microphone recording, or cloud workspace required.
 
-This repository is the public product and support page. **Svara is not available to download yet.** The Mac App Store link will appear here after release. App source code is private, and this repository will not distribute app binaries.
+Svara is available on the [Mac App Store](https://apps.apple.com/us/app/svara-audio-recorder/id6813962461?mt=12). This repository is the public product and support page. App source code is private, and this repository will not distribute app binaries.
 
 ## A focused recorder. A more capable Pro.
 
-These features are included in version 1.0 (build 9), submitted for App Review. The app is not yet approved or available to download.
+These features are included in version 1.0, available now on the Mac App Store.
 
 | Svara Free | Svara Pro |
 |---|---|
@@ -30,7 +32,7 @@ These features are included in version 1.0 (build 9), submitted for App Review. 
 | Visible status and audio level | Reusable recording presets |
 | Local audio processing | Searchable recording library and editable titles |
 
-Svara is free to download at launch. Pro is a **US $2.99 one-time in-app purchase**, with no subscription. Prices in other countries are localized by Apple. Free includes 10 minutes of recording per day across sessions on this Mac. The remaining time and daily reset are shown in the app; recording automatically stops and saves at the limit or reset. Pro has no artificial daily or per-recording limit. Neither tier adds ads or watermarks.
+Svara is free to download. Pro is a **US $2.99 one-time in-app purchase**, with no subscription. Prices in other countries are localized by Apple. Free includes 10 minutes of recording per day across sessions on this Mac. The remaining time and daily reset are shown in the app; recording automatically stops and saves at the limit or reset. Pro has no artificial daily or per-recording limit. Neither tier adds ads or watermarks.
 
 ## Built for the sounds you are allowed to keep
 
@@ -40,9 +42,8 @@ Svara saves audio only. It does not save screen video, capture the microphone, u
 
 ## Release status
 
-- Version 1.0 (build 9) and Svara Pro were resubmitted together on September 26, 2026. Both showed Waiting for Review at that submission check; this is not approval.
-- Build 9 improves the recording-permission flow: Refresh Apps invokes macOS authorization, with no direct Settings redirect.
-- No public download is available yet. The App Store link will be added after approval and release.
+- Version 1.0 and Svara Pro were released on the Mac App Store on September 29, 2026. [Download Svara](https://apps.apple.com/us/app/svara-audio-recorder/id6813962461?mt=12).
+- Recording permission uses the native macOS flow: Refresh Apps invokes macOS authorization, with no direct Settings redirect.
 - Requires macOS 26 or later.
 
 ## Support and feedback
